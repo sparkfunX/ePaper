@@ -5707,6 +5707,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="U$31" library="buzzard_labels (33)" package="GND11" value="" x="6.35" y="8.89" rot="MR0"/>
 <element name="U$32" library="buzzard_labels (33)" package="5V10" value="" x="5.334" y="6.35" rot="MR0"/>
 <element name="U$12" library="buzzard_labels (33)" package="3SPI0" value="" x="29.972" y="4.445"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="-16.51" y="-13.97"/>
 </elements>
 <signals>
 <signal name="GDR">
