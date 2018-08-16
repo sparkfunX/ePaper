@@ -5663,7 +5663,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <attribute name="PROD_ID" value="CONN-07820" x="21.59" y="20.32" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="U4" library="SparkFun-IC-Memory" package="SOIC-8" value="23K640" x="19.05" y="4.445" rot="R90"/>
-<element name="U$2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="" x="41.402" y="3.683"/>
 <element name="U$3" library="SparkFun-IC-Comms" package="UFDFN-20" value="TXB0108DQSR" x="8.763" y="17.526" rot="R90">
 <attribute name="PROD_ID" value="IC-12292" x="8.763" y="17.526" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="VALUE" value="TXB0108DQSR" x="8.763" y="17.526" size="1.778" layer="27" rot="R90" display="off"/>
@@ -5707,7 +5706,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <element name="U$31" library="buzzard_labels (33)" package="GND11" value="" x="6.35" y="8.89" rot="MR0"/>
 <element name="U$32" library="buzzard_labels (33)" package="5V10" value="" x="5.334" y="6.35" rot="MR0"/>
 <element name="U$12" library="buzzard_labels (33)" package="3SPI0" value="" x="29.972" y="4.445"/>
-<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="-16.51" y="-13.97"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="41.402" y="3.683"/>
 </elements>
 <signals>
 <signal name="GDR">
