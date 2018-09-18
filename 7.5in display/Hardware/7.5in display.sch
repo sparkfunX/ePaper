@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.1">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -3853,13 +3853,11 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="59.436" y="93.472" size="1.27" layer="97" rot="MR0">D/C# : high=data || low=command</text>
 <text x="59.182" y="98.552" size="1.27" layer="97" rot="MR0">BUSY - when low, commands should not be issued</text>
 <text x="60.198" y="101.092" size="1.27" layer="97" rot="MR0">BS - Low = 4 line SPI, High= 3 line SPI</text>
-<text x="43.18" y="167.64" size="1.27" layer="97">diode ratings ??</text>
 <text x="55.88" y="85.09" size="1.27" layer="97" rot="MR180">VDDIO</text>
 <text x="54.102" y="81.28" size="1.27" layer="97" rot="MR0">VCI</text>
 <text x="33.02" y="111.76" size="2.54" layer="97">Display</text>
 <text x="162.56" y="91.44" size="2.54" layer="97">SPI </text>
 <text x="28.956" y="37.592" size="2.54" layer="97">uSD</text>
-<text x="126.492" y="21.082" size="1.778" layer="97">3.3v?</text>
 <text x="2.54" y="81.28" size="1.778" layer="97">Close this jumper
 to use 3-line SPI</text>
 <wire x1="0" y1="45.72" x2="96.52" y2="45.72" width="0.1524" layer="97" style="longdash"/>
