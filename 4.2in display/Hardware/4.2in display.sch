@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.0.1">
+<eagle version="9.1.3">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -3869,6 +3869,7 @@ to use 3-line SPI</text>
 <wire x1="96.52" y1="99.06" x2="248.92" y2="99.06" width="0.1524" layer="97" style="longdash"/>
 <wire x1="96.52" y1="45.72" x2="248.92" y2="45.72" width="0.1524" layer="97" style="longdash"/>
 <text x="106.68" y="35.56" size="2.54" layer="97">SRAM</text>
+<text x="165.1" y="10.16" size="2.54" layer="97">Ciara Jekel</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
